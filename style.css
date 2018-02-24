@@ -1,0 +1,43 @@
+/* My Defaults */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+}
+a {
+    text-decoration: none;
+}
+/* End of my defaults */
+body {
+    background-color: #424949;
+    color: aliceblue;
+}
+#main .png .rec1 > h3 {
+    text-align: center;
+    height: 55px;
+    margin-top: 15px;
+}
+#main .png .rec2 > h4{
+    text-align: center;
+    margin-top: 100px;
+    height: 55px;
+}
+p {
+    margin-left: 100px;
+    text-align: left;
+    padding-right: 150px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.division
+{
+    display: inline-block;
+    border: 5px solid black;
+    height: 150px;
+    width: 150px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: #C7DBDB;
+}
+
