@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+body{
+    color: black;
+}
+#main .cls1 > h1 {
+    text-align: center;
+    height: 80px;
+}
+h2 {
+    font-family: Harlow Solid Italic;
+    text-align: center;
+}
+#main > div{
+    width:100%;
+}
+#main .left {
+    height:300px;
+    width:48%;
+    display: inline-block;
+}
+#main .right {
+    height:300px;
+    width:48%;
+    display: inline-block;
+}
+div.left p {
+    margin:100px;
+}
+div.right p {
+    margin:100px;
+}
+#main .cls2 > h1{
+    text-align: center;
+    font-family: Harlow Solid Italic;
+    height: 90px;
+}
+button {
+    display: inline-block;
+    text-align: center;
+    margin-left: 45%;
+    background-color: rgb(202, 194, 194
+    
+
+    
+}
